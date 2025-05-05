@@ -1,9 +1,7 @@
 package dao;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class Students {
-    /* Students clss */
+    /* Students class */
     public void getStudents(){
         System.out.println("Student Class");
     }
