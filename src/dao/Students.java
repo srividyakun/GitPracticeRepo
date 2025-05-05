@@ -1,6 +1,9 @@
 package dao;
 
 public class Students {
-    /* Students clss */
+    /* Students class */
+    public void getStudents(){
+        System.out.println("Student Class");
+    }
  //
 }
